@@ -57,7 +57,7 @@ body {
 
     height: 704.25px;
     box-sizing: border-box;
-    background-image: url(http://w3schools-fa.ir/w3images/coffeehouse.jpg);
+    background-image: url(coffeehouse-bg.jpg);
     background-size: cover;
     background-position: center;
 
@@ -125,7 +125,7 @@ body {
 .about {
 
     height: 97%;
-    margin: 0px 566.5px;
+    margin: 0px 31%;
 
 }
 
@@ -192,7 +192,7 @@ body {
 .menu-content {
 
     height: 97%;
-    margin: 0px 566.5px;
+    margin: 0px 31%;
     text-align: center;
     box-sizing: inherit;
 
@@ -287,7 +287,7 @@ body {
 .where-content {
 
         height: 97%;
-        margin: 0px 566.5px;
+        margin: 0px 31%;
         box-sizing: border-box;
 }
 
